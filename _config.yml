@@ -11,6 +11,11 @@ mailchimp-list: ''
 
 # Authors
 authors:
+  anonymous:
+    name: Anonymous
+    display_name: Anonymous
+    description: "Our friend here prefers to stay in the shadows. After all, guve a man a mask, and you'll see his true face..."
+    gravatar: 'https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar.png'
   sid:
     name: Siddharth Sham
     display_name: Siddharth Sham
@@ -19,6 +24,15 @@ authors:
     description: "Me? I'm probably drinking coffee, as I dream about alternate Universes in which blog pages type themselves..."
     instagram: https://www.instagram.com/Siddharth_Sham
     gravatar: 'assets/images/profile.jpg'
+  Yashank Fomra:
+    name: Yashank Fomra
+    display_name: Yashank Fomra
+    gravatar: 'https://drive.google.com/file/d/1ev44OZihXrJPQ0IwifFXMjOKSl3CmBwJ/view?usp=drivesdk'
+  கரன்:
+    name: கரன்
+    display_name: கரன்
+    gravatar: 'https://drive.google.com/file/d/1SjpMjLkTn8RKkdEC4sUBJTVJxCwy6He7/view?usp=drivesdk'
+    
 
 # Plugins
 plugins:
