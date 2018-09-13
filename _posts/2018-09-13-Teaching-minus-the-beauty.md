@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Teaching, minus the beauty in it"
+author: Anonymous
+categories: [ Education, Perspective ]
+image: https://edtechreview.in/images/student-education.jpg
+---
+
+Every day I sit in class, I ponder how better a class would be if the beauty behind what is taught is exposed. Teachers who take classes today reduce the subject to raw objects removing the beauty from it. It is like providing sugarcane husk after juicing it. The juice in it is something that makes sugarcane wonderful. Similarly, a subject's beauty comes from its' reason. When we question 'why' something works, telling its a '2 mark' question or an '8  mark' deeply hurts both the value of the subject and the seeker of the knowledge itself. This is something that needs to be changed. We humans could see things in different perspective, speak the same thing in different context and interpret the same thing in different ways. Knowledge is everywhere, perspective is what we gain. A subject is a perspective. A same object can be taken and analysed using different subjects like maths, physics, chemistry, biology etc. Take a shell for example. A biologist's interest to study what lived inside it. A physicist's interest is know what forces made it. A chemist's interest is to analyse the composition of it. A mathematician's interest is to study the pattern on it. Can you see how perspective changes the way you look at it? Can you see how each discipline is linked with a mastery of perspective? All I understand is that there is information around us. It is raw, unfiltered and useless. Adding perspective to the equation, it suddenly becomes useful, we see beauty in it and it kindles curiosity. A subject is a mastery of a perspective.  If we acknowledge that, we are giving room to the human tendency of being curious to new, different things and my friends, doesn't that add beauty to what we learn?
