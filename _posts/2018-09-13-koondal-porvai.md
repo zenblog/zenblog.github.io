@@ -19,4 +19,3 @@ Manam,
 Un Koondhalai Porvayaai Ketkudhadi
 Adhan Ullae Neeyum Vendumadi!
 
-Author is not responsible for encoding issues
